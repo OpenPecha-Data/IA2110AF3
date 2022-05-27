@@ -1,0 +1,19 @@
+id: 20fbca19b515450fa2082dcdfee99c41
+annotation_type: index
+revision: '00001'
+annotations:
+  a67a6676327c4909abc6d99b26458193:
+    base: f2829.txt
+    span:
+      start: 0
+      end: 13
+  c3923cb7eaad4c8c8e11d0615563e08b:
+    base: f83E6.txt
+    span:
+      start: 0
+      end: 2285
+  132c7a3d918c41ea89a2bca9b31be398:
+    base: fF84E.txt
+    span:
+      start: 0
+      end: 14529
